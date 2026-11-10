@@ -1,2 +1,9 @@
-streamlit
-pillow
+streamlit>=1.40
+google-genai>=1.0
+pydantic>=2.6
+pillow>=10
+requests>=2.31
+gradio_client>=1.4
+# Optional other LLM providers (the course original used Claude). Uncomment to use them:
+# anthropic>=2.0
+# openai>=1.50

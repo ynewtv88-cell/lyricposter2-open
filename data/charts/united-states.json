@@ -1,0 +1,358 @@
+{
+ "chart_id": "united-states",
+ "label": "Top tracks: United States",
+ "source": "lastfm",
+ "fetched_at": "2026-11-10T02:13:17+00:00",
+ "tracks": [
+  {
+   "rank": 1,
+   "title": "Nicole Kidman",
+   "artist": "ADÉLA",
+   "listeners": 19906,
+   "url": "https://www.last.fm/music/AD%C3%89LA/_/Nicole+Kidman"
+  },
+  {
+   "rank": 2,
+   "title": "the cure",
+   "artist": "Olivia Rodrigo",
+   "listeners": 18293,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure"
+  },
+  {
+   "rank": 3,
+   "title": "Earrings",
+   "artist": "Malcolm Todd",
+   "listeners": 17364,
+   "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings"
+  },
+  {
+   "rank": 4,
+   "title": "D>E>A>T>H>M>E>T>A>L",
+   "artist": "Panchiko",
+   "listeners": 17054,
+   "url": "https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL"
+  },
+  {
+   "rank": 5,
+   "title": "stupid song",
+   "artist": "Olivia Rodrigo",
+   "listeners": 16607,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song"
+  },
+  {
+   "rank": 6,
+   "title": "505",
+   "artist": "Arctic Monkeys",
+   "listeners": 16067,
+   "url": "https://www.last.fm/music/Arctic+Monkeys/_/505"
+  },
+  {
+   "rank": 7,
+   "title": "expectations (feat. Chappell Roan)",
+   "artist": "Olivia Rodrigo",
+   "listeners": 15541,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/expectations+(feat.+Chappell+Roan)"
+  },
+  {
+   "rank": 8,
+   "title": "Duvet",
+   "artist": "bôa",
+   "listeners": 15382,
+   "url": "https://www.last.fm/music/b%C3%B4a/_/Duvet"
+  },
+  {
+   "rank": 9,
+   "title": "Mr. Brightside",
+   "artist": "The Killers",
+   "listeners": 15012,
+   "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside"
+  },
+  {
+   "rank": 10,
+   "title": "Lovers Rock",
+   "artist": "TV Girl",
+   "listeners": 14807,
+   "url": "https://www.last.fm/music/TV+Girl/_/Lovers+Rock"
+  },
+  {
+   "rank": 11,
+   "title": "Creep",
+   "artist": "Radiohead",
+   "listeners": 14685,
+   "url": "https://www.last.fm/music/Radiohead/_/Creep"
+  },
+  {
+   "rank": 12,
+   "title": "Bags",
+   "artist": "Clairo",
+   "listeners": 14603,
+   "url": "https://www.last.fm/music/Clairo/_/Bags"
+  },
+  {
+   "rank": 13,
+   "title": "Everlong",
+   "artist": "Foo Fighters",
+   "listeners": 14382,
+   "url": "https://www.last.fm/music/Foo+Fighters/_/Everlong"
+  },
+  {
+   "rank": 14,
+   "title": "Ain't In LA",
+   "artist": "ADÉLA",
+   "listeners": 14229,
+   "url": "https://www.last.fm/music/AD%C3%89LA/_/Ain%27t+In+LA"
+  },
+  {
+   "rank": 15,
+   "title": "expectations",
+   "artist": "Olivia Rodrigo",
+   "listeners": 13711,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/expectations"
+  },
+  {
+   "rank": 16,
+   "title": "Oh Yeah?",
+   "artist": "Steve Lacy",
+   "listeners": 13527,
+   "url": "https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F"
+  },
+  {
+   "rank": 17,
+   "title": "maggots for brains",
+   "artist": "Olivia Rodrigo",
+   "listeners": 13377,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains"
+  },
+  {
+   "rank": 18,
+   "title": "Stateside + Zara Larsson",
+   "artist": "PinkPantheress",
+   "listeners": 13318,
+   "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson"
+  },
+  {
+   "rank": 19,
+   "title": "In My Room",
+   "artist": "Julia Wolf",
+   "listeners": 13146,
+   "url": "https://www.last.fm/music/Julia+Wolf/_/In+My+Room"
+  },
+  {
+   "rank": 20,
+   "title": "All I Wanted",
+   "artist": "Paramore",
+   "listeners": 12800,
+   "url": "https://www.last.fm/music/Paramore/_/All+I+Wanted"
+  },
+  {
+   "rank": 21,
+   "title": "nothing",
+   "artist": "Steve Lacy",
+   "listeners": 12699,
+   "url": "https://www.last.fm/music/Steve+Lacy/_/nothing"
+  },
+  {
+   "rank": 22,
+   "title": "Let Down",
+   "artist": "Radiohead",
+   "listeners": 12666,
+   "url": "https://www.last.fm/music/Radiohead/_/Let+Down"
+  },
+  {
+   "rank": 23,
+   "title": "Sweater Weather",
+   "artist": "The Neighbourhood",
+   "listeners": 12560,
+   "url": "https://www.last.fm/music/The+Neighbourhood/_/Sweater+Weather"
+  },
+  {
+   "rank": 24,
+   "title": "Melatonin",
+   "artist": "Tinashe",
+   "listeners": 12489,
+   "url": "https://www.last.fm/music/Tinashe/_/Melatonin"
+  },
+  {
+   "rank": 25,
+   "title": "Housewife",
+   "artist": "Tate McRae",
+   "listeners": 12417,
+   "url": "https://www.last.fm/music/Tate+McRae/_/Housewife"
+  },
+  {
+   "rank": 26,
+   "title": "When the Sun Hits",
+   "artist": "Slowdive",
+   "listeners": 12332,
+   "url": "https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits"
+  },
+  {
+   "rank": 27,
+   "title": "No One Noticed",
+   "artist": "The Marías",
+   "listeners": 12236,
+   "url": "https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed"
+  },
+  {
+   "rank": 28,
+   "title": "The Feeling",
+   "artist": "Steve Lacy",
+   "listeners": 12218,
+   "url": "https://www.last.fm/music/Steve+Lacy/_/The+Feeling"
+  },
+  {
+   "rank": 29,
+   "title": "drop dead",
+   "artist": "Olivia Rodrigo",
+   "listeners": 12149,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead"
+  },
+  {
+   "rank": 30,
+   "title": "Sienna",
+   "artist": "The Marías",
+   "listeners": 12132,
+   "url": "https://www.last.fm/music/The+Mar%C3%ADas/_/Sienna"
+  },
+  {
+   "rank": 31,
+   "title": "Headlock",
+   "artist": "Imogen Heap",
+   "listeners": 12031,
+   "url": "https://www.last.fm/music/Imogen+Heap/_/Headlock"
+  },
+  {
+   "rank": 32,
+   "title": "Lover, You Should've Come Over",
+   "artist": "Jeff Buckley",
+   "listeners": 12012,
+   "url": "https://www.last.fm/music/Jeff+Buckley/_/Lover,+You+Should%27ve+Come+Over"
+  },
+  {
+   "rank": 33,
+   "title": "cigarette smoke",
+   "artist": "Olivia Rodrigo",
+   "listeners": 11949,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/cigarette+smoke"
+  },
+  {
+   "rank": 34,
+   "title": "All I Need",
+   "artist": "Radiohead",
+   "listeners": 11946,
+   "url": "https://www.last.fm/music/Radiohead/_/All+I+Need"
+  },
+  {
+   "rank": 35,
+   "title": "Still Into You",
+   "artist": "Paramore",
+   "listeners": 11910,
+   "url": "https://www.last.fm/music/Paramore/_/Still+Into+You"
+  },
+  {
+   "rank": 36,
+   "title": "Girl Like Me",
+   "artist": "PinkPantheress",
+   "listeners": 11895,
+   "url": "https://www.last.fm/music/PinkPantheress/_/Girl+Like+Me"
+  },
+  {
+   "rank": 37,
+   "title": "Cherry Waves",
+   "artist": "Deftones",
+   "listeners": 11804,
+   "url": "https://www.last.fm/music/Deftones/_/Cherry+Waves"
+  },
+  {
+   "rank": 38,
+   "title": "LES",
+   "artist": "Childish Gambino",
+   "listeners": 11777,
+   "url": "https://www.last.fm/music/Childish+Gambino/_/LES"
+  },
+  {
+   "rank": 39,
+   "title": "The Only Exception",
+   "artist": "Paramore",
+   "listeners": 11676,
+   "url": "https://www.last.fm/music/Paramore/_/The+Only+Exception"
+  },
+  {
+   "rank": 40,
+   "title": "The Less I Know the Better",
+   "artist": "Tame Impala",
+   "listeners": 11468,
+   "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better"
+  },
+  {
+   "rank": 41,
+   "title": "Sweet Boy",
+   "artist": "Malcolm Todd",
+   "listeners": 11324,
+   "url": "https://www.last.fm/music/Malcolm+Todd/_/Sweet+Boy"
+  },
+  {
+   "rank": 42,
+   "title": "the perfect pair",
+   "artist": "beabadoobee",
+   "listeners": 11296,
+   "url": "https://www.last.fm/music/beabadoobee/_/the+perfect+pair"
+  },
+  {
+   "rank": 43,
+   "title": "Roommates",
+   "artist": "Malcolm Todd",
+   "listeners": 11235,
+   "url": "https://www.last.fm/music/Malcolm+Todd/_/Roommates"
+  },
+  {
+   "rank": 44,
+   "title": "See You Again (feat. Kali Uchis)",
+   "artist": "Tyler, The Creator",
+   "listeners": 11161,
+   "url": "https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis)"
+  },
+  {
+   "rank": 45,
+   "title": "take me home (4 christmas)",
+   "artist": "Olivia Rodrigo",
+   "listeners": 11154,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/take+me+home+(4+christmas)"
+  },
+  {
+   "rank": 46,
+   "title": "Sextape",
+   "artist": "Deftones",
+   "listeners": 11102,
+   "url": "https://www.last.fm/music/Deftones/_/Sextape"
+  },
+  {
+   "rank": 47,
+   "title": "Bad Habit",
+   "artist": "Steve Lacy",
+   "listeners": 11094,
+   "url": "https://www.last.fm/music/Steve+Lacy/_/Bad+Habit"
+  },
+  {
+   "rank": 48,
+   "title": "Misery Business",
+   "artist": "Paramore",
+   "listeners": 11088,
+   "url": "https://www.last.fm/music/Paramore/_/Misery+Business"
+  },
+  {
+   "rank": 49,
+   "title": "Decode",
+   "artist": "Paramore",
+   "listeners": 11026,
+   "url": "https://www.last.fm/music/Paramore/_/Decode"
+  },
+  {
+   "rank": 50,
+   "title": "Change (In the House of Flies)",
+   "artist": "Deftones",
+   "listeners": 10981,
+   "url": "https://www.last.fm/music/Deftones/_/Change+(In+the+House+of+Flies)"
+  }
+ ]
+}
