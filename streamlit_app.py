@@ -1,4 +1,3 @@
-Streamlit app.PY
 import hashlib
 import io
 import os
@@ -162,5 +161,3 @@ if brief:
     if poster:
         st.image(poster, caption="AI가 만든 이미지가 아닌 데모 포스터예요.")
         st.download_button("PNG 다운로드", poster, "poster.png", "image/png")
- 
-Claude가 응답을 완료했습니다
