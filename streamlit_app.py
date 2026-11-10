@@ -107,7 +107,7 @@ def make_demo_poster(brief: dict, title: str, artist: str) -> bytes:
 # ------------------------------------------------------------
 st.set_page_config(page_title="Lyric2Poster", page_icon="🎨")
 st.title("🎨 Lyric2Poster")
-st.caption("노래 가사로 포스터를 만들어요. (지금은 연습용 데모 모드)")
+st.caption("노래 가사로 포스터를 만들어요.")
  
 # 1단계: 곡 고르기
 st.header("1. 노래 고르기")
